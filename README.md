@@ -50,3 +50,9 @@ Choosing `all` runs every algorithm on the same trip so you can compare them. BF
 
 - `assistant.py` - the whole project
 - `README.md` - this file
+
+
+## MADE BY:
+Aditya Agrawal
+
+2025KUAD3032
